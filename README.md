@@ -29,5 +29,4 @@ To perform exploratory data analysis (EDA) and extract key business insights usi
 **Tools Used:**  
 Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
-![Image](https://github.com/user-attachments/assets/f77e06bb-511c-475f-aaef-057b51d20844)
-![Image](https://github.com/user-attachments/assets/0446fe95-a9f1-49fb-9471-c1da98a862a0)
+
